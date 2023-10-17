@@ -8,8 +8,7 @@
 
 ## Future Targets
 ### Hospital Section
-    A section where you can make appointments of your desired doctor of their available hospitals,
-    Also let you get online treatment with video conference & pdf of prescription.
+A section where you can make appointments of your desired doctor of their available hospitals, also let you get online treatment with video conference & pdf of prescription.
 
 ## Getting Started
 To get started with 'BloodEasy', follow these steps:
